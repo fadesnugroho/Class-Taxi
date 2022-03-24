@@ -1,0 +1,8 @@
+D:\Tugas Class Taxi\obj\Debug\Tugas Class Taxi.csproj.AssemblyReference.cache
+D:\Tugas Class Taxi\obj\Debug\Tugas Class Taxi.csproj.SuggestedBindingRedirects.cache
+D:\Tugas Class Taxi\obj\Debug\Tugas Class Taxi.csproj.CoreCompileInputs.cache
+D:\Tugas Class Taxi\bin\Debug\Tugas Class Taxi.exe.config
+D:\Tugas Class Taxi\bin\Debug\Tugas Class Taxi.exe
+D:\Tugas Class Taxi\bin\Debug\Tugas Class Taxi.pdb
+D:\Tugas Class Taxi\obj\Debug\Tugas Class Taxi.exe
+D:\Tugas Class Taxi\obj\Debug\Tugas Class Taxi.pdb
